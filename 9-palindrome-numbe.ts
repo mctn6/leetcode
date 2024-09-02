@@ -1,3 +1,6 @@
+/**
+ * https://leetcode.com/problems/palindrome-number/descriptions
+ */
 function isPalindrome(x: number): boolean {
 
     const charString = [...x.toString()];
